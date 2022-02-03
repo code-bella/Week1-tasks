@@ -1,3 +1,5 @@
+package de.codebella.day3;
+
 public class Task6 {
     private static void LongAndFancyString(String test) {
         var resultLength = test.length() > 20;

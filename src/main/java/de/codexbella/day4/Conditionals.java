@@ -13,7 +13,7 @@ public class Conditionals {
             case "gelb":
                 return customerCheck(numberOfCustomers, 30.0);
             case "gruen":
-                return customerCheck(numberOfCustomers, Double.POSITIVE_INFINITY);
+                return customerCheck(numberOfCustomers, Double.POSITIVE_INFINITY);//oder mit Integer.MAX_VALUE oder Long.MAX_VALUE
             default:
                 return MESSAGE_ERROR;
         }

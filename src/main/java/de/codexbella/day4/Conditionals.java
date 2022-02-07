@@ -1,4 +1,4 @@
-package de.codebella.day4;
+package de.codexbella.day4;
 
 public class Conditionals {
 

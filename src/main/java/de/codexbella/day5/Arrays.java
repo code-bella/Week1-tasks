@@ -1,4 +1,4 @@
-package de.codebella.day5;
+package de.codexbella.day5;
 
 public class Arrays {
     public static String[] makeStudentArray(int numberOfStudents){

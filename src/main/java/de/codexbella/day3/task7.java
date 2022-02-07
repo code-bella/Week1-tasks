@@ -1,4 +1,4 @@
-package de.codebella.day3;
+package de.codexbella.day3;
 
 public class task7 {
     public static int multiply(int value1, int value2){

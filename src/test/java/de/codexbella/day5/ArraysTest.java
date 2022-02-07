@@ -1,4 +1,4 @@
-package de.codebella.day5;
+package de.codexbella.day5;
 
 import org.junit.jupiter.api.Test;
 
